@@ -14,3 +14,4 @@ def get_client():
         client = Client(api_key,api_secret,testnet=True)
         logger.info("Client initialized successfully")
         return client
+    

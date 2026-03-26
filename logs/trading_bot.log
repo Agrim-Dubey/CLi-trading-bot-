@@ -1,0 +1,11 @@
+2026-03-26 20:54:27,350 | INFO | Trade requested: BTCUSDT BUY MARKET qty=0.01 price=None
+2026-03-26 20:54:27,350 | DEBUG | Validating input: symbol=BTCUSDT, side=BUY, order_type=MARKET, quantity=0.01, price=None
+2026-03-26 20:54:27,350 | INFO | Input validation successful
+2026-03-26 20:54:28,094 | INFO | Client initialized successfully
+2026-03-26 20:54:29,432 | ERROR | Binance API error: Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-26 20:54:29,434 | ERROR | Order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2026-03-26 20:56:03,861 | INFO | Trade requested: BTCUSDT BUY MARKET qty=0.01 price=None
+2026-03-26 20:56:03,861 | DEBUG | Validating input: symbol=BTCUSDT, side=BUY, order_type=MARKET, quantity=0.01, price=None
+2026-03-26 20:56:03,861 | INFO | Input validation successful
+2026-03-26 20:56:04,503 | INFO | Client initialized successfully
+2026-03-26 20:56:04,809 | INFO | Order placed successfully: {'orderId': 12995868288, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ3d6f84f189377949b38929', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1774538764686}
